@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-01-20T07:29:33.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" version="16.4.2" etag="_TJv11dKw1Th3HETAw5D" type="github"><diagram id="X0aPWApwCLK23YIQkhDa">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-20T07:33:30.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36 Edg/97.0.1072.62" etag="gaSlVUUr2Ikoz4YEMBkK" version="16.4.2" type="github">
+  <diagram id="X0aPWApwCLK23YIQkhDa" name="第 1 页">
+    <mxGraphModel dx="1209" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e--Nih_nLnsaApbE08jo-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e--Nih_nLnsaApbE08jo-2" target="e--Nih_nLnsaApbE08jo-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e--Nih_nLnsaApbE08jo-2" value="添加机器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e--Nih_nLnsaApbE08jo-5" value="齐集" style="whiteSpace=wrap;html=1;rounded=1;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="235" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
